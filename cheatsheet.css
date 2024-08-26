@@ -1,0 +1,36 @@
+
+body {
+    background-color:rgb(234, 220, 225);
+}
+
+#banner {
+    text-align: center;
+    color: forestgreen;
+}
+
+.table-title {
+    text-align: center;
+    color: seagreen;
+}
+
+.table {
+    width: 650px;
+    margin: 0 auto;
+    border: 1px black solid;
+}
+
+td {
+    border-top: 1px solid black;
+    
+}
+
+th {
+    background-color: springgreen;
+    padding: 5px 35px;
+}
+
+.code {
+    color: grey;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
