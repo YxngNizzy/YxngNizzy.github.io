@@ -1,0 +1,104 @@
+#banner {
+    font-weight: 700;
+    font-size: 35px;
+    margin: 50px auto;
+    text-align: left;
+    border: none;
+}
+
+
+.section {
+    border: 1px solid black;
+    width: 1200px;
+    margin: 0 auto;
+    height: auto;
+}
+
+h2 {
+    font-size: 25px;
+    margin: 10px 0 25px 10px;
+}
+
+/* Colours Section */
+
+#colours li {
+    display: inline-block;
+    padding: 30px 200px;
+    border: 1px solid black;
+    margin: 5px 10px 25px 25px;
+    text-align: center;
+
+}
+
+#tranquil-orange {
+    background-color: rgb(248, 111, 61); 
+}
+
+#deep-cyan {
+    color: white;
+    background-color: rgb(4, 128, 128);
+
+}
+
+#tropic-green {
+    background-color: rgb(103, 248, 35);
+}
+
+#purple-passion {
+    color: white;
+    background-color: rgb(157, 74, 253);
+}
+
+/* Fonts Section */
+
+h3 {
+    font-size: 20px;
+    padding: 10px 0 15px 0;
+    text-decoration: underline;
+}
+
+.fonts {
+    margin: 5px 10px 10px 5px ;
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+    font-size: 20px;
+    border: 1px solid black;
+    font-display: swap;
+}
+
+#suse {
+  font-family: "SUSE", 'Courier New', sans-serif;
+}
+
+#oswald {
+    font-family: 'Oswald', 'Courier New', sans-serif;
+}
+
+#montserrat {
+    font-family: 'Montserrat', 'Courier New', sans-serif;
+}
+
+#handjet {
+    font-family: 'Handjet', 'Courier New', sans-serif;
+}
+
+.bold { 
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+/* Text Styles Section*/
+
+#text-styles ul {
+    list-style-type: square;
+    margin-left: 50px;
+}
+#heading-one h1 {
+    font-weight: 700;
+    font-size: 35px;
+    font-family: 'SUSE';
+}
